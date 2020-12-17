@@ -1,7 +1,6 @@
 
 import { StorefrontModule } from '@vue-storefront/core/lib/modules';
 import { isServer } from '@vue-storefront/core/helpers'
-import { coreHooks } from '@vue-storefront/core/hooks'
 import EventBus from '@vue-storefront/core/compatibility/plugins/event-bus'
 import { module } from './store'
 
